@@ -14,6 +14,24 @@
 		A15119A22C3596AC0069DF73 /* SwiftUIStudyTwoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15119A12C3596AC0069DF73 /* SwiftUIStudyTwoTests.swift */; };
 		A15119AC2C3596AC0069DF73 /* SwiftUIStudyTwoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15119AB2C3596AC0069DF73 /* SwiftUIStudyTwoUITests.swift */; };
 		A15119AE2C3596AC0069DF73 /* SwiftUIStudyTwoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15119AD2C3596AC0069DF73 /* SwiftUIStudyTwoUITestsLaunchTests.swift */; };
+		A15119BC2C363F130069DF73 /* Trip.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15119BB2C363F130069DF73 /* Trip.swift */; };
+		A15119BE2C3644440069DF73 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15119BD2C3644440069DF73 /* CardView.swift */; };
+		A15119C22C3649050069DF73 /* RestaurantDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15119C02C3649040069DF73 /* RestaurantDetailView.swift */; };
+		A15119C32C3649050069DF73 /* BasicBottomSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15119C12C3649050069DF73 /* BasicBottomSheet.swift */; };
+		A15119C52C3649100069DF73 /* Restaurant.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15119C42C3649100069DF73 /* Restaurant.swift */; };
+		A15119CA2C364BFF0069DF73 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15119C82C364BFE0069DF73 /* Card.swift */; };
+		A15119CB2C364BFF0069DF73 /* Transaction.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15119C92C364BFF0069DF73 /* Transaction.swift */; };
+		A15119CD2C364C0E0069DF73 /* TransactionHistoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15119CC2C364C0E0069DF73 /* TransactionHistoryView.swift */; };
+		A15119CF2C364C3B0069DF73 /* WalletView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15119CE2C364C3B0069DF73 /* WalletView.swift */; };
+		A15119D12C364D580069DF73 /* WalletCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15119D02C364D580069DF73 /* WalletCardView.swift */; };
+		A15119D42C366FC40069DF73 /* JsonSliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15119D32C366FC40069DF73 /* JsonSliderView.swift */; };
+		A15119D62C3670160069DF73 /* Loan.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15119D52C3670160069DF73 /* Loan.swift */; };
+		A15119D82C36705B0069DF73 /* LoanCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15119D72C36705B0069DF73 /* LoanCellView.swift */; };
+		A15119DA2C3670950069DF73 /* LoanFilterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15119D92C3670950069DF73 /* LoanFilterView.swift */; };
+		A15119DC2C3670C30069DF73 /* LoanStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15119DB2C3670C30069DF73 /* LoanStore.swift */; };
+		A15119E82C368DC00069DF73 /* Article.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15119E72C368DC00069DF73 /* Article.swift */; };
+		A15119EA2C368DFA0069DF73 /* ArticleCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15119E92C368DFA0069DF73 /* ArticleCardView.swift */; };
+		A15119EE2C368E8A0069DF73 /* AppstoreContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15119ED2C368E8A0069DF73 /* AppstoreContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +62,24 @@
 		A15119A72C3596AC0069DF73 /* SwiftUIStudyTwoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIStudyTwoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A15119AB2C3596AC0069DF73 /* SwiftUIStudyTwoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIStudyTwoUITests.swift; sourceTree = "<group>"; };
 		A15119AD2C3596AC0069DF73 /* SwiftUIStudyTwoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIStudyTwoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A15119BB2C363F130069DF73 /* Trip.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Trip.swift; sourceTree = "<group>"; };
+		A15119BD2C3644440069DF73 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		A15119C02C3649040069DF73 /* RestaurantDetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RestaurantDetailView.swift; sourceTree = "<group>"; };
+		A15119C12C3649050069DF73 /* BasicBottomSheet.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BasicBottomSheet.swift; sourceTree = "<group>"; };
+		A15119C42C3649100069DF73 /* Restaurant.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Restaurant.swift; sourceTree = "<group>"; };
+		A15119C82C364BFE0069DF73 /* Card.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
+		A15119C92C364BFF0069DF73 /* Transaction.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Transaction.swift; sourceTree = "<group>"; };
+		A15119CC2C364C0E0069DF73 /* TransactionHistoryView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TransactionHistoryView.swift; sourceTree = "<group>"; };
+		A15119CE2C364C3B0069DF73 /* WalletView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WalletView.swift; sourceTree = "<group>"; };
+		A15119D02C364D580069DF73 /* WalletCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WalletCardView.swift; sourceTree = "<group>"; };
+		A15119D32C366FC40069DF73 /* JsonSliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JsonSliderView.swift; sourceTree = "<group>"; };
+		A15119D52C3670160069DF73 /* Loan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Loan.swift; sourceTree = "<group>"; };
+		A15119D72C36705B0069DF73 /* LoanCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoanCellView.swift; sourceTree = "<group>"; };
+		A15119D92C3670950069DF73 /* LoanFilterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoanFilterView.swift; sourceTree = "<group>"; };
+		A15119DB2C3670C30069DF73 /* LoanStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoanStore.swift; sourceTree = "<group>"; };
+		A15119E72C368DC00069DF73 /* Article.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Article.swift; sourceTree = "<group>"; };
+		A15119E92C368DFA0069DF73 /* ArticleCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleCardView.swift; sourceTree = "<group>"; };
+		A15119ED2C368E8A0069DF73 /* AppstoreContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppstoreContentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,8 +130,13 @@
 		A151198F2C3596AA0069DF73 /* SwiftUIStudyTwo */ = {
 			isa = PBXGroup;
 			children = (
+				A15119DE2C3681F70069DF73 /* 26appstore */,
+				A15119DD2C3671DA0069DF73 /* 22SwiftData */,
+				A15119D22C366F810069DF73 /* 21Jsonslider */,
+				A15119BA2C363EE50069DF73 /* 19Trip */,
+				A15119C62C364B5F0069DF73 /* 20walletView */,
+				A15119BF2C3648A40069DF73 /* 18Bottomsheet */,
 				A15119902C3596AA0069DF73 /* SwiftUIStudyTwoApp.swift */,
-				A15119922C3596AA0069DF73 /* ContentView.swift */,
 				A15119942C3596AB0069DF73 /* Assets.xcassets */,
 				A15119962C3596AB0069DF73 /* Preview Content */,
 			);
@@ -125,6 +166,91 @@
 				A15119AD2C3596AC0069DF73 /* SwiftUIStudyTwoUITestsLaunchTests.swift */,
 			);
 			path = SwiftUIStudyTwoUITests;
+			sourceTree = "<group>";
+		};
+		A15119BA2C363EE50069DF73 /* 19Trip */ = {
+			isa = PBXGroup;
+			children = (
+				A15119BB2C363F130069DF73 /* Trip.swift */,
+				A15119BD2C3644440069DF73 /* CardView.swift */,
+				A15119922C3596AA0069DF73 /* ContentView.swift */,
+			);
+			path = 19Trip;
+			sourceTree = "<group>";
+		};
+		A15119BF2C3648A40069DF73 /* 18Bottomsheet */ = {
+			isa = PBXGroup;
+			children = (
+				A15119C42C3649100069DF73 /* Restaurant.swift */,
+				A15119C12C3649050069DF73 /* BasicBottomSheet.swift */,
+				A15119C02C3649040069DF73 /* RestaurantDetailView.swift */,
+			);
+			path = 18Bottomsheet;
+			sourceTree = "<group>";
+		};
+		A15119C62C364B5F0069DF73 /* 20walletView */ = {
+			isa = PBXGroup;
+			children = (
+				A15119CC2C364C0E0069DF73 /* TransactionHistoryView.swift */,
+				A15119C72C364BDD0069DF73 /* Model */,
+				A15119CE2C364C3B0069DF73 /* WalletView.swift */,
+				A15119D02C364D580069DF73 /* WalletCardView.swift */,
+			);
+			path = 20walletView;
+			sourceTree = "<group>";
+		};
+		A15119C72C364BDD0069DF73 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				A15119C82C364BFE0069DF73 /* Card.swift */,
+				A15119C92C364BFF0069DF73 /* Transaction.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		A15119D22C366F810069DF73 /* 21Jsonslider */ = {
+			isa = PBXGroup;
+			children = (
+				A15119D32C366FC40069DF73 /* JsonSliderView.swift */,
+				A15119D52C3670160069DF73 /* Loan.swift */,
+				A15119D72C36705B0069DF73 /* LoanCellView.swift */,
+				A15119D92C3670950069DF73 /* LoanFilterView.swift */,
+				A15119DB2C3670C30069DF73 /* LoanStore.swift */,
+			);
+			path = 21Jsonslider;
+			sourceTree = "<group>";
+		};
+		A15119DD2C3671DA0069DF73 /* 22SwiftData */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = 22SwiftData;
+			sourceTree = "<group>";
+		};
+		A15119DE2C3681F70069DF73 /* 26appstore */ = {
+			isa = PBXGroup;
+			children = (
+				A15119E62C368DA60069DF73 /* View */,
+				A15119E52C368D840069DF73 /* Model */,
+				A15119ED2C368E8A0069DF73 /* AppstoreContentView.swift */,
+			);
+			path = 26appstore;
+			sourceTree = "<group>";
+		};
+		A15119E52C368D840069DF73 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				A15119E72C368DC00069DF73 /* Article.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		A15119E62C368DA60069DF73 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				A15119E92C368DFA0069DF73 /* ArticleCardView.swift */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -257,8 +383,26 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A15119EE2C368E8A0069DF73 /* AppstoreContentView.swift in Sources */,
+				A15119BC2C363F130069DF73 /* Trip.swift in Sources */,
+				A15119D42C366FC40069DF73 /* JsonSliderView.swift in Sources */,
+				A15119E82C368DC00069DF73 /* Article.swift in Sources */,
+				A15119C22C3649050069DF73 /* RestaurantDetailView.swift in Sources */,
+				A15119D62C3670160069DF73 /* Loan.swift in Sources */,
+				A15119CF2C364C3B0069DF73 /* WalletView.swift in Sources */,
 				A15119932C3596AA0069DF73 /* ContentView.swift in Sources */,
+				A15119C52C3649100069DF73 /* Restaurant.swift in Sources */,
+				A15119D12C364D580069DF73 /* WalletCardView.swift in Sources */,
+				A15119BE2C3644440069DF73 /* CardView.swift in Sources */,
 				A15119912C3596AA0069DF73 /* SwiftUIStudyTwoApp.swift in Sources */,
+				A15119DA2C3670950069DF73 /* LoanFilterView.swift in Sources */,
+				A15119C32C3649050069DF73 /* BasicBottomSheet.swift in Sources */,
+				A15119CA2C364BFF0069DF73 /* Card.swift in Sources */,
+				A15119D82C36705B0069DF73 /* LoanCellView.swift in Sources */,
+				A15119CD2C364C0E0069DF73 /* TransactionHistoryView.swift in Sources */,
+				A15119CB2C364BFF0069DF73 /* Transaction.swift in Sources */,
+				A15119EA2C368DFA0069DF73 /* ArticleCardView.swift in Sources */,
+				A15119DC2C3670C30069DF73 /* LoanStore.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
