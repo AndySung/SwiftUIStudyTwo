@@ -32,6 +32,17 @@
 		A15119E82C368DC00069DF73 /* Article.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15119E72C368DC00069DF73 /* Article.swift */; };
 		A15119EA2C368DFA0069DF73 /* ArticleCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15119E92C368DFA0069DF73 /* ArticleCardView.swift */; };
 		A15119EE2C368E8A0069DF73 /* AppstoreContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15119ED2C368E8A0069DF73 /* AppstoreContentView.swift */; };
+		A15119F32C3692470069DF73 /* TripDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15119F12C3692470069DF73 /* TripDetailView.swift */; };
+		A15119F42C3692470069DF73 /* TripCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15119F22C3692470069DF73 /* TripCardView.swift */; };
+		A15119F62C3692B10069DF73 /* ImageCarouselView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15119F52C3692B10069DF73 /* ImageCarouselView.swift */; };
+		A15119F92C369C990069DF73 /* FaqView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15119F82C369C990069DF73 /* FaqView.swift */; };
+		A15119FB2C369CC90069DF73 /* MenuItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15119FA2C369CC90069DF73 /* MenuItem.swift */; };
+		A15119FD2C369D080069DF73 /* ExpandableListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15119FC2C369D080069DF73 /* ExpandableListView.swift */; };
+		A1511A002C36A0370069DF73 /* GridLayoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15119FF2C36A0370069DF73 /* GridLayoutView.swift */; };
+		A1511A032C36A12F0069DF73 /* Photo.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1511A022C36A12F0069DF73 /* Photo.swift */; };
+		A1511A052C36A1520069DF73 /* Cafe.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1511A042C36A1520069DF73 /* Cafe.swift */; };
+		A1511A072C36A1760069DF73 /* MultiGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1511A062C36A1760069DF73 /* MultiGridView.swift */; };
+		A1511A092C36A29D0069DF73 /* PhotoGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1511A082C36A29D0069DF73 /* PhotoGridView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -80,6 +91,17 @@
 		A15119E72C368DC00069DF73 /* Article.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Article.swift; sourceTree = "<group>"; };
 		A15119E92C368DFA0069DF73 /* ArticleCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticleCardView.swift; sourceTree = "<group>"; };
 		A15119ED2C368E8A0069DF73 /* AppstoreContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppstoreContentView.swift; sourceTree = "<group>"; };
+		A15119F12C3692470069DF73 /* TripDetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TripDetailView.swift; sourceTree = "<group>"; };
+		A15119F22C3692470069DF73 /* TripCardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TripCardView.swift; sourceTree = "<group>"; };
+		A15119F52C3692B10069DF73 /* ImageCarouselView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCarouselView.swift; sourceTree = "<group>"; };
+		A15119F82C369C990069DF73 /* FaqView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FaqView.swift; sourceTree = "<group>"; };
+		A15119FA2C369CC90069DF73 /* MenuItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuItem.swift; sourceTree = "<group>"; };
+		A15119FC2C369D080069DF73 /* ExpandableListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpandableListView.swift; sourceTree = "<group>"; };
+		A15119FF2C36A0370069DF73 /* GridLayoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridLayoutView.swift; sourceTree = "<group>"; };
+		A1511A022C36A12F0069DF73 /* Photo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Photo.swift; sourceTree = "<group>"; };
+		A1511A042C36A1520069DF73 /* Cafe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cafe.swift; sourceTree = "<group>"; };
+		A1511A062C36A1760069DF73 /* MultiGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiGridView.swift; sourceTree = "<group>"; };
+		A1511A082C36A29D0069DF73 /* PhotoGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoGridView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +152,10 @@
 		A151198F2C3596AA0069DF73 /* SwiftUIStudyTwo */ = {
 			isa = PBXGroup;
 			children = (
+				A1511A012C36A0EB0069DF73 /* 30PhotoGrid */,
+				A15119FE2C36A00F0069DF73 /* 29GridLayout */,
+				A15119F72C369C3F0069DF73 /* 28ExpandableList */,
+				A15119EF2C3692090069DF73 /* 27Carousel */,
 				A15119DE2C3681F70069DF73 /* 26appstore */,
 				A15119DD2C3671DA0069DF73 /* 22SwiftData */,
 				A15119D22C366F810069DF73 /* 21Jsonslider */,
@@ -251,6 +277,53 @@
 				A15119E92C368DFA0069DF73 /* ArticleCardView.swift */,
 			);
 			path = View;
+			sourceTree = "<group>";
+		};
+		A15119EF2C3692090069DF73 /* 27Carousel */ = {
+			isa = PBXGroup;
+			children = (
+				A15119F02C36922E0069DF73 /* View */,
+				A15119F52C3692B10069DF73 /* ImageCarouselView.swift */,
+			);
+			path = 27Carousel;
+			sourceTree = "<group>";
+		};
+		A15119F02C36922E0069DF73 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				A15119F22C3692470069DF73 /* TripCardView.swift */,
+				A15119F12C3692470069DF73 /* TripDetailView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		A15119F72C369C3F0069DF73 /* 28ExpandableList */ = {
+			isa = PBXGroup;
+			children = (
+				A15119F82C369C990069DF73 /* FaqView.swift */,
+				A15119FA2C369CC90069DF73 /* MenuItem.swift */,
+				A15119FC2C369D080069DF73 /* ExpandableListView.swift */,
+			);
+			path = 28ExpandableList;
+			sourceTree = "<group>";
+		};
+		A15119FE2C36A00F0069DF73 /* 29GridLayout */ = {
+			isa = PBXGroup;
+			children = (
+				A15119FF2C36A0370069DF73 /* GridLayoutView.swift */,
+			);
+			path = 29GridLayout;
+			sourceTree = "<group>";
+		};
+		A1511A012C36A0EB0069DF73 /* 30PhotoGrid */ = {
+			isa = PBXGroup;
+			children = (
+				A1511A022C36A12F0069DF73 /* Photo.swift */,
+				A1511A042C36A1520069DF73 /* Cafe.swift */,
+				A1511A062C36A1760069DF73 /* MultiGridView.swift */,
+				A1511A082C36A29D0069DF73 /* PhotoGridView.swift */,
+			);
+			path = 30PhotoGrid;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -383,26 +456,37 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A1511A032C36A12F0069DF73 /* Photo.swift in Sources */,
 				A15119EE2C368E8A0069DF73 /* AppstoreContentView.swift in Sources */,
 				A15119BC2C363F130069DF73 /* Trip.swift in Sources */,
 				A15119D42C366FC40069DF73 /* JsonSliderView.swift in Sources */,
+				A15119F92C369C990069DF73 /* FaqView.swift in Sources */,
+				A15119F42C3692470069DF73 /* TripCardView.swift in Sources */,
 				A15119E82C368DC00069DF73 /* Article.swift in Sources */,
 				A15119C22C3649050069DF73 /* RestaurantDetailView.swift in Sources */,
 				A15119D62C3670160069DF73 /* Loan.swift in Sources */,
 				A15119CF2C364C3B0069DF73 /* WalletView.swift in Sources */,
+				A15119F62C3692B10069DF73 /* ImageCarouselView.swift in Sources */,
+				A1511A052C36A1520069DF73 /* Cafe.swift in Sources */,
 				A15119932C3596AA0069DF73 /* ContentView.swift in Sources */,
+				A1511A002C36A0370069DF73 /* GridLayoutView.swift in Sources */,
 				A15119C52C3649100069DF73 /* Restaurant.swift in Sources */,
+				A15119FD2C369D080069DF73 /* ExpandableListView.swift in Sources */,
 				A15119D12C364D580069DF73 /* WalletCardView.swift in Sources */,
 				A15119BE2C3644440069DF73 /* CardView.swift in Sources */,
+				A15119FB2C369CC90069DF73 /* MenuItem.swift in Sources */,
 				A15119912C3596AA0069DF73 /* SwiftUIStudyTwoApp.swift in Sources */,
 				A15119DA2C3670950069DF73 /* LoanFilterView.swift in Sources */,
 				A15119C32C3649050069DF73 /* BasicBottomSheet.swift in Sources */,
+				A15119F32C3692470069DF73 /* TripDetailView.swift in Sources */,
 				A15119CA2C364BFF0069DF73 /* Card.swift in Sources */,
+				A1511A072C36A1760069DF73 /* MultiGridView.swift in Sources */,
 				A15119D82C36705B0069DF73 /* LoanCellView.swift in Sources */,
 				A15119CD2C364C0E0069DF73 /* TransactionHistoryView.swift in Sources */,
 				A15119CB2C364BFF0069DF73 /* Transaction.swift in Sources */,
 				A15119EA2C368DFA0069DF73 /* ArticleCardView.swift in Sources */,
 				A15119DC2C3670C30069DF73 /* LoanStore.swift in Sources */,
+				A1511A092C36A29D0069DF73 /* PhotoGridView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
