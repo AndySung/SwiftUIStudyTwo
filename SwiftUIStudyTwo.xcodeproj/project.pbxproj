@@ -43,6 +43,9 @@
 		A1511A052C36A1520069DF73 /* Cafe.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1511A042C36A1520069DF73 /* Cafe.swift */; };
 		A1511A072C36A1760069DF73 /* MultiGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1511A062C36A1760069DF73 /* MultiGridView.swift */; };
 		A1511A092C36A29D0069DF73 /* PhotoGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1511A082C36A29D0069DF73 /* PhotoGridView.swift */; };
+		A1511A0C2C3796400069DF73 /* ProgressRingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1511A0B2C3796400069DF73 /* ProgressRingView.swift */; };
+		A1511A0E2C3796C70069DF73 /* Color+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1511A0D2C3796C70069DF73 /* Color+Ext.swift */; };
+		A1511A102C3797010069DF73 /* ShapeAnimatableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1511A0F2C3797010069DF73 /* ShapeAnimatableView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -102,6 +105,9 @@
 		A1511A042C36A1520069DF73 /* Cafe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cafe.swift; sourceTree = "<group>"; };
 		A1511A062C36A1760069DF73 /* MultiGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiGridView.swift; sourceTree = "<group>"; };
 		A1511A082C36A29D0069DF73 /* PhotoGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoGridView.swift; sourceTree = "<group>"; };
+		A1511A0B2C3796400069DF73 /* ProgressRingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressRingView.swift; sourceTree = "<group>"; };
+		A1511A0D2C3796C70069DF73 /* Color+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+Ext.swift"; sourceTree = "<group>"; };
+		A1511A0F2C3797010069DF73 /* ShapeAnimatableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapeAnimatableView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -152,7 +158,8 @@
 		A151198F2C3596AA0069DF73 /* SwiftUIStudyTwo */ = {
 			isa = PBXGroup;
 			children = (
-				A1511A012C36A0EB0069DF73 /* 30PhotoGrid */,
+				A1511A0A2C3795760069DF73 /* 30shapeAnimatable */,
+				A1511A012C36A0EB0069DF73 /* 29PhotoGrid */,
 				A15119FE2C36A00F0069DF73 /* 29GridLayout */,
 				A15119F72C369C3F0069DF73 /* 28ExpandableList */,
 				A15119EF2C3692090069DF73 /* 27Carousel */,
@@ -315,7 +322,7 @@
 			path = 29GridLayout;
 			sourceTree = "<group>";
 		};
-		A1511A012C36A0EB0069DF73 /* 30PhotoGrid */ = {
+		A1511A012C36A0EB0069DF73 /* 29PhotoGrid */ = {
 			isa = PBXGroup;
 			children = (
 				A1511A022C36A12F0069DF73 /* Photo.swift */,
@@ -323,7 +330,17 @@
 				A1511A062C36A1760069DF73 /* MultiGridView.swift */,
 				A1511A082C36A29D0069DF73 /* PhotoGridView.swift */,
 			);
-			path = 30PhotoGrid;
+			path = 29PhotoGrid;
+			sourceTree = "<group>";
+		};
+		A1511A0A2C3795760069DF73 /* 30shapeAnimatable */ = {
+			isa = PBXGroup;
+			children = (
+				A1511A0B2C3796400069DF73 /* ProgressRingView.swift */,
+				A1511A0D2C3796C70069DF73 /* Color+Ext.swift */,
+				A1511A0F2C3797010069DF73 /* ShapeAnimatableView.swift */,
+			);
+			path = 30shapeAnimatable;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -473,6 +490,7 @@
 				A15119C52C3649100069DF73 /* Restaurant.swift in Sources */,
 				A15119FD2C369D080069DF73 /* ExpandableListView.swift in Sources */,
 				A15119D12C364D580069DF73 /* WalletCardView.swift in Sources */,
+				A1511A0C2C3796400069DF73 /* ProgressRingView.swift in Sources */,
 				A15119BE2C3644440069DF73 /* CardView.swift in Sources */,
 				A15119FB2C369CC90069DF73 /* MenuItem.swift in Sources */,
 				A15119912C3596AA0069DF73 /* SwiftUIStudyTwoApp.swift in Sources */,
@@ -484,8 +502,10 @@
 				A15119D82C36705B0069DF73 /* LoanCellView.swift in Sources */,
 				A15119CD2C364C0E0069DF73 /* TransactionHistoryView.swift in Sources */,
 				A15119CB2C364BFF0069DF73 /* Transaction.swift in Sources */,
+				A1511A0E2C3796C70069DF73 /* Color+Ext.swift in Sources */,
 				A15119EA2C368DFA0069DF73 /* ArticleCardView.swift in Sources */,
 				A15119DC2C3670C30069DF73 /* LoanStore.swift in Sources */,
+				A1511A102C3797010069DF73 /* ShapeAnimatableView.swift in Sources */,
 				A1511A092C36A29D0069DF73 /* PhotoGridView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
